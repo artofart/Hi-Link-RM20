@@ -1,4 +1,4 @@
-# OpenWRT для Hi‑link RM20 с Podkop и Zapret
+# OpenWRT для Hi‑link RM20
 
 Готовая прошивка на основе OpenWRT для маршрутизатора **Hi‑link RM20**
 
